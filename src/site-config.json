@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Canyon Electric, LLC",
+    "phone": "+12083232000",
+    "category": "electrician",
+    "city": "Boise",
+    "state": "ID"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Powering Boise, One Circuit at a Time",
+      "heroSubline": "Reliable electrical services for homes and businesses in the Treasure Valley. Decades of experience solving complex problems.",
+      "aboutTitle": "Experienced Electricians Serving Boise",
+      "aboutText": [
+        "Canyon Electric, LLC has been providing top-quality electrical services to the Boise area for over a decade. Founded by a master electrician with a passion for problem-solving and a commitment to safety, we've grown from a small operation to a trusted name in the community.",
+        "We believe in doing the job right the first time. Our approach is simple: listen to our clients, assess their needs thoroughly, and deliver solutions that are both effective and sustainable. We prioritize clear communication and transparent pricing, so you always know what to expect.",
+        "Canyon Electric is proud to be a part of the Boise community. We actively support local initiatives and strive to contribute to the well-being of our neighbors. We understand the unique electrical needs of Boise homes and businesses, from dealing with older wiring in the North End to ensuring energy efficiency in new construction in Harris Ranch."
+      ],
+      "valueProps": [
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Electrical emergencies don't wait, and neither do we. We're available around the clock to handle urgent electrical issues."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No surprises. We provide clear, detailed estimates before we start any work, so you know exactly what you're paying for."
+        },
+        {
+          "title": "Licensed & Insured",
+          "description": "Your safety is our priority. We are fully licensed and insured, giving you peace of mind knowing you're working with professionals."
+        },
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team consists of highly skilled and experienced electricians who are dedicated to providing exceptional service."
+        }
+      ],
+      "ctaHeadline": "Need Electrical Help?",
+      "ctaSubline": "Contact Canyon Electric today for a free quote and experience the difference quality service makes."
+    },
+    "services": [
+      {
+        "slug": "residential-electrical-services",
+        "name": "Residential Electrical Services",
+        "shortDescription": "Comprehensive electrical solutions for Boise homes, ensuring safety and efficiency.",
+        "description": "Canyon Electric understands the unique electrical needs of Boise homes. From troubleshooting faulty wiring in older homes in the North End to installing smart home systems in new developments, we've got you covered. We handle everything from simple repairs to complete home rewiring, ensuring your home's electrical system is safe, reliable, and up to code.\n\nOur residential services include lighting installation, outlet and switch repair, circuit breaker replacement, electrical panel upgrades, surge protection, and generator installation. We also specialize in energy-efficient solutions to help you reduce your energy consumption and lower your utility bills, a welcome relief during Boise's hot summers and cold winters.\n\nWe know that electrical problems can be disruptive and stressful. That's why we strive to provide prompt, professional service with minimal disruption to your daily life. Our electricians are trained to diagnose problems quickly and accurately, and we always explain the repair process clearly before starting any work. With Canyon Electric, you can rest assured that your home's electrical system is in good hands.",
+        "process": [
+          "Step 1: Schedule a consultation to discuss your needs and assess your electrical system.",
+          "Step 2: Receive a detailed estimate with transparent pricing.",
+          "Step 3: Our licensed electricians will perform the work efficiently and professionally.",
+          "Step 4: We'll conduct a final inspection to ensure everything is working properly and to your satisfaction."
+        ],
+        "benefits": [
+          "Improved safety and reliability of your home's electrical system",
+          "Increased energy efficiency and lower utility bills",
+          "Enhanced home value",
+          "Peace of mind knowing your electrical system is up to code"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my electrical panel inspected?",
+            "answer": "It's recommended to have your electrical panel inspected at least every 3-5 years, or more frequently if you notice any signs of problems such as flickering lights or tripping breakers. Regular inspections can help identify potential hazards and prevent costly repairs."
+          },
+          {
+            "question": "What are the benefits of installing surge protection?",
+            "answer": "Surge protection can protect your valuable electronics and appliances from damage caused by power surges, which can occur due to lightning strikes, power outages, or even normal electrical activity. It's a relatively inexpensive way to safeguard your investments."
+          },
+          {
+            "question": "Do you offer financing options for larger electrical projects?",
+            "answer": "Yes, we offer flexible financing options to help you manage the cost of larger electrical projects. Contact us to learn more about our financing plans and find a solution that fits your budget."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-electrical-services",
+        "name": "Commercial Electrical Services",
+        "shortDescription": "Expert electrical solutions for Boise businesses, minimizing downtime and maximizing productivity.",
+        "description": "Canyon Electric provides comprehensive electrical services for businesses in Boise and the surrounding areas. We understand that electrical issues can disrupt your operations and impact your bottom line. That's why we offer prompt, reliable service to minimize downtime and keep your business running smoothly.\n\nOur commercial services include electrical system design and installation, lighting upgrades, energy-efficient solutions, data cabling, and emergency repairs. We also specialize in tenant improvements and new construction projects, ensuring your electrical systems meet your specific needs and comply with all applicable codes.\n\nWhether you're a small retail shop in downtown Boise or a large industrial facility in the industrial district, we have the expertise and resources to handle your electrical needs. We work closely with our clients to understand their requirements and develop customized solutions that are both effective and cost-efficient. We are committed to providing high-quality workmanship and exceptional customer service, ensuring your satisfaction with every project.",
+        "process": [
+          "Step 1: Consultation and assessment of your business's electrical needs.",
+          "Step 2: Customized solution design and detailed proposal.",
+          "Step 3: Efficient and professional installation or repair services.",
+          "Step 4: Ongoing maintenance and support."
+        ],
+        "benefits": [
+          "Reduced downtime and improved productivity",
+          "Lower energy costs",
+          "Enhanced safety and compliance",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to an electrical emergency at my business?",
+            "answer": "We offer 24/7 emergency service and strive to respond to emergency calls as quickly as possible. Our response time depends on our current workload and your location, but we always prioritize emergency situations."
+          },
+          {
+            "question": "Can you help me upgrade my business's lighting to LED?",
+            "answer": "Yes, we specialize in LED lighting upgrades for commercial properties. LED lighting can significantly reduce your energy consumption and lower your utility bills, while also improving the quality of light in your workspace."
+          },
+          {
+            "question": "Do you offer maintenance contracts for commercial electrical systems?",
+            "answer": "Yes, we offer customized maintenance contracts to help you keep your electrical systems in top condition. Regular maintenance can prevent costly repairs and extend the lifespan of your equipment."
+          }
+        ]
+      },
+      {
+        "slug": "electrical-panel-upgrades",
+        "name": "Electrical Panel Upgrades",
+        "shortDescription": "Ensuring your Boise home or business has the power it needs with safe, reliable panel upgrades.",
+        "description": "Is your electrical panel outdated or overloaded? Upgrading your electrical panel is essential for ensuring the safety and reliability of your electrical system. Canyon Electric provides expert electrical panel upgrade services for homes and businesses in Boise. An overloaded panel can lead to tripped breakers, flickering lights, and even electrical fires.\n\nWe assess your current electrical needs and recommend the appropriate panel size to accommodate your power demands. Whether you're adding new appliances, installing a home theater, or expanding your business, we can upgrade your panel to handle the increased load. We handle all aspects of the upgrade process, from obtaining permits to installing the new panel and ensuring it meets all safety codes.\n\nOur experienced electricians will work efficiently to minimize disruption to your daily life or business operations. We prioritize safety and quality workmanship, ensuring your new electrical panel is installed correctly and functions reliably for years to come. Don't wait until you experience electrical problems – upgrade your panel today to protect your home or business and ensure you have the power you need.",
+        "process": [
+          "Step 1: Electrical load calculation to determine the appropriate panel size.",
+          "Step 2: Obtain necessary permits from the city of Boise.",
+          "Step 3: Removal of the old electrical panel.",
+          "Step 4: Installation of the new electrical panel and wiring connections."
+        ],
+        "benefits": [
+          "Improved safety and reduced risk of electrical fires",
+          "Increased electrical capacity to handle modern appliances and devices",
+          "Elimination of tripped breakers and flickering lights",
+          "Enhanced home or business value"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need to upgrade my electrical panel?",
+            "answer": "Common signs that you may need to upgrade your electrical panel include frequently tripped breakers, flickering lights, burning smells, and an outdated panel with limited capacity. If you experience any of these issues, it's best to consult with a qualified electrician."
+          },
+          {
+            "question": "How long does it take to upgrade an electrical panel?",
+            "answer": "The time it takes to upgrade an electrical panel depends on the complexity of the project, but it typically takes between 4-8 hours to complete. We will provide you with a more accurate estimate after assessing your specific needs."
+          },
+          {
+            "question": "Is it necessary to obtain a permit to upgrade my electrical panel?",
+            "answer": "Yes, it is necessary to obtain a permit from the city of Boise before upgrading your electrical panel. We will handle the permit process for you to ensure that the project complies with all applicable codes and regulations."
+          }
+        ]
+      },
+      {
+        "slug": "lighting-installation",
+        "name": "Lighting Installation",
+        "shortDescription": "Brightening Boise homes and businesses with professional lighting design and installation services.",
+        "description": "Canyon Electric offers professional lighting installation services for homes and businesses in Boise. Whether you're looking to upgrade your existing lighting, install new fixtures, or create a custom lighting design, we have the expertise and resources to bring your vision to life. From recessed lighting and pendant lights to landscape lighting and security lighting, we offer a wide range of lighting solutions to meet your needs.\n\nWe work closely with our clients to understand their aesthetic preferences and functional requirements. We can help you choose the right lighting fixtures to complement your decor and create the desired ambiance. We also specialize in energy-efficient lighting solutions, such as LED lighting, which can significantly reduce your energy consumption and lower your utility bills. We can install lighting indoors or outdoors, enhancing the beauty and functionality of your home or business.\n\nProper lighting can improve the safety, security, and overall appeal of your property. Our experienced electricians will install your lighting fixtures safely and efficiently, ensuring they are properly wired and functioning correctly. We are committed to providing high-quality workmanship and exceptional customer service, ensuring your satisfaction with every project.",
+        "process": [
+          "Step 1: Consultation to discuss your lighting needs and preferences.",
+          "Step 2: Lighting design and fixture selection.",
+          "Step 3: Professional installation of lighting fixtures.",
+          "Step 4: Final inspection to ensure proper functionality and aesthetics."
+        ],
+        "benefits": [
+          "Enhanced aesthetics and ambiance",
+          "Improved safety and security",
+          "Increased energy efficiency and lower utility bills",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of switching to LED lighting?",
+            "answer": "LED lighting is more energy-efficient, longer-lasting, and more durable than traditional lighting options. LED bulbs consume significantly less energy, which can save you money on your utility bills. They also have a longer lifespan, reducing the need for frequent replacements."
+          },
+          {
+            "question": "Can you help me design a custom lighting plan for my home or business?",
+            "answer": "Yes, we offer custom lighting design services to help you create the perfect lighting scheme for your space. We will work with you to understand your needs and preferences and develop a lighting plan that meets your specific requirements."
+          },
+          {
+            "question": "Do you offer outdoor lighting installation services?",
+            "answer": "Yes, we offer a wide range of outdoor lighting installation services, including landscape lighting, security lighting, and pathway lighting. We can help you enhance the beauty and functionality of your outdoor spaces with professionally installed lighting."
+          }
+        ]
+      },
+      {
+        "slug": "generator-installation",
+        "name": "Generator Installation",
+        "shortDescription": "Keeping Boise powered during outages with reliable generator installation services.",
+        "description": "Power outages can be disruptive and inconvenient, especially during Boise's harsh winters or wildfire season. Canyon Electric provides expert generator installation services for homes and businesses, ensuring you have a reliable backup power source when you need it most. We offer a wide range of generator options, from portable generators to whole-house generators, to meet your specific power needs.\n\nWe assess your power requirements and recommend the appropriate generator size to keep your essential appliances and devices running during an outage. We handle all aspects of the installation process, from obtaining permits to connecting the generator to your electrical system. Our experienced electricians will ensure your generator is installed safely and efficiently, and we'll provide you with comprehensive training on how to operate and maintain your generator.\n\nA standby generator provides peace of mind knowing that you'll have power when you need it most. Whether you're concerned about keeping your lights on, running your HVAC system, or powering medical equipment, a generator can provide a reliable backup power source. Contact Canyon Electric today to learn more about our generator installation services and find the right generator for your needs.",
+        "process": [
+          "Step 1: Assessment of your power needs and generator selection.",
+          "Step 2: Obtain necessary permits from the city of Boise.",
+          "Step 3: Installation of the generator and transfer switch.",
+          "Step 4: Testing and training on generator operation and maintenance."
+        ],
+        "benefits": [
+          "Reliable backup power during outages",
+          "Protection for your home or business",
+          "Peace of mind knowing you're prepared for emergencies",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "What size generator do I need for my home or business?",
+            "answer": "The size of the generator you need depends on the amount of power you want to be able to generate during an outage. We will assess your power needs and recommend the appropriate generator size to meet your specific requirements."
+          },
+          {
+            "question": "What is a transfer switch and why is it necessary?",
+            "answer": "A transfer switch is a device that automatically switches your electrical system from the utility power grid to the generator when a power outage occurs. It's essential for safety and prevents backfeeding of power onto the utility grid."
+          },
+          {
+            "question": "How often should I maintain my generator?",
+            "answer": "It's recommended to have your generator serviced annually to ensure it's functioning properly. Regular maintenance includes checking the oil, filters, and spark plugs, as well as testing the generator's operation."
+          }
+        ]
+      },
+      {
+        "slug": "electrical-inspections",
+        "name": "Electrical Inspections",
+        "shortDescription": "Protecting Boise properties with thorough electrical safety inspections and code compliance.",
+        "description": "Canyon Electric provides comprehensive electrical inspection services for homes and businesses in Boise. Whether you're buying or selling a property, renovating your home, or simply want to ensure the safety of your electrical system, our experienced electricians can provide a thorough inspection and identify any potential hazards or code violations. We understand the unique electrical challenges presented by older homes and new construction in the Boise area.\n\nOur inspections cover all aspects of your electrical system, including wiring, electrical panels, outlets, switches, and lighting fixtures. We use advanced diagnostic tools to identify hidden problems and ensure your electrical system is functioning safely and efficiently. We provide you with a detailed report outlining our findings and recommendations for any necessary repairs or upgrades.\n\nAn electrical inspection can help prevent costly repairs, reduce the risk of electrical fires, and ensure your property meets all applicable safety codes. Our team is dedicated to safety and quality workmanship.",
+        "process": [
+          "Step 1: Schedule an electrical inspection with Canyon Electric.",
+          "Step 2: Our licensed electrician will conduct a thorough inspection of your electrical system.",
+          "Step 3: Receive a detailed report outlining our findings and recommendations.",
+          "Step 4: We can provide you with a quote for any necessary repairs or upgrades."
+        ],
+        "benefits": [
+          "Improved safety and reduced risk of electrical fires",
+          "Identification of potential hazards and code violations",
+          "Prevention of costly repairs",
+          "Peace of mind knowing your electrical system is safe and up to code"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have an electrical inspection?",
+            "answer": "It's recommended to have an electrical inspection performed every 3-5 years, or whenever you're buying or selling a property, renovating your home, or experiencing electrical problems."
+          },
+          {
+            "question": "What does an electrical inspection include?",
+            "answer": "An electrical inspection includes a thorough examination of your electrical system, including wiring, electrical panels, outlets, switches, and lighting fixtures. We will also check for any potential hazards or code violations."
+          },
+          {
+            "question": "How long does an electrical inspection take?",
+            "answer": "The time it takes to perform an electrical inspection depends on the size and complexity of the property, but it typically takes between 1-3 hours."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Boise",
+        "slug": "boise-id",
+        "state": "ID",
+        "content": "Canyon Electric, LLC is proud to provide comprehensive electrical services to the residents and businesses of Boise, Idaho. From troubleshooting minor electrical issues to complete home rewiring projects, our team of licensed and experienced electricians is dedicated to delivering safe, reliable, and efficient solutions. We understand the unique electrical needs of Boise homes and businesses, and we are committed to exceeding your expectations.\n\nWe offer a wide range of electrical services in Boise, including electrical panel upgrades, lighting installations, outlet repairs, generator installations, and much more. No job is too big or too small for Canyon Electric, LLC. We are dedicated to providing quality electrical services at a fair price. Our commitment to customer satisfaction is our top priority.",
+        "localContext": "Boise, the capital of Idaho, is a vibrant city known for its outdoor recreation, thriving arts scene, and friendly community. We understand the specific electrical needs of Boise residents and businesses.",
+        "nearbyAreas": [
+          "Meridian",
+          "Eagle",
+          "Nampa"
+        ]
+      },
+      {
+        "city": "Meridian",
+        "slug": "meridian-id",
+        "state": "ID",
+        "content": "Canyon Electric, LLC extends its expert electrical services to the rapidly growing community of Meridian, Idaho. We are committed to providing top-notch electrical solutions for homes and businesses in Meridian, ensuring safety, efficiency, and reliability. Whether you need a new electrical installation for your home or commercial property, or require repairs and maintenance, our skilled electricians are ready to assist you.\n\nOur services in Meridian include electrical inspections, surge protection, wiring upgrades, and more. We understand the demands of modern living and business operations, and we strive to deliver electrical solutions that meet your specific needs. We are dedicated to providing exceptional service and quality workmanship.",
+        "localContext": "Meridian is a bustling suburb of Boise, known for its family-friendly atmosphere and thriving business community. Canyon Electric, LLC is proud to serve the growing electrical needs of Meridian.",
+        "nearbyAreas": [
+          "Boise",
+          "Nampa",
+          "Kuna"
+        ]
+      },
+      {
+        "city": "Nampa",
+        "slug": "nampa-id",
+        "state": "ID",
+        "content": "Canyon Electric, LLC is a trusted provider of electrical services in Nampa, Idaho. We offer a comprehensive range of electrical solutions for residential and commercial clients, from routine maintenance to complex installations. Our team of experienced electricians is dedicated to delivering quality workmanship and exceptional customer service.\n\nWe provide a variety of services in Nampa, including lighting design, electrical troubleshooting, and generator maintenance. We understand the importance of safe and reliable electrical systems, and we are committed to providing solutions that meet your specific needs. We pride ourselves on our professionalism and attention to detail.",
+        "localContext": "Nampa is a growing city in the Treasure Valley, known for its agricultural heritage and strong community spirit. Canyon Electric, LLC is dedicated to serving the electrical needs of Nampa residents and businesses.",
+        "nearbyAreas": [
+          "Meridian",
+          "Caldwell",
+          "Middleton"
+        ]
+      },
+      {
+        "city": "Eagle",
+        "slug": "eagle-id",
+        "state": "ID",
+        "content": "Canyon Electric, LLC offers premier electrical services to the residents and businesses of Eagle, Idaho. We understand the unique electrical needs of this community and strive to provide top-quality workmanship and exceptional customer service. From new construction wiring to electrical repairs and upgrades, our team of experienced electricians is equipped to handle any project.\n\nOur services in Eagle include custom lighting installations, home automation wiring, and electrical safety inspections. We are committed to ensuring the safety and efficiency of your electrical systems. We understand the importance of reliable electrical service and pride ourselves on our prompt and professional service.",
+        "localContext": "Eagle is an affluent community known for its beautiful homes and scenic surroundings. Canyon Electric, LLC is dedicated to providing electrical services that meet the high standards of Eagle residents.",
+        "nearbyAreas": [
+          "Boise",
+          "Star",
+          "Meridian"
+        ]
+      },
+      {
+        "city": "Kuna",
+        "slug": "kuna-id",
+        "state": "ID",
+        "content": "Canyon Electric, LLC is proud to offer reliable and affordable electrical services to the community of Kuna, Idaho. We provide a full range of electrical solutions for homes and businesses, including new installations, repairs, and maintenance. Our team of licensed electricians is committed to delivering quality workmanship and exceptional customer service.\n\nWe offer a variety of services in Kuna, including electrical panel upgrades, wiring repairs, and lighting installations. We understand the needs of Kuna residents and businesses and strive to provide solutions that are both effective and affordable. We are dedicated to providing personalized service and ensuring your complete satisfaction.",
+        "localContext": "Kuna is a growing community with a small-town feel, located southwest of Boise. Canyon Electric, LLC is committed to providing quality electrical services to the residents and businesses of Kuna.",
+        "nearbyAreas": [
+          "Meridian",
+          "Nampa",
+          "Melba"
+        ]
+      },
+      {
+        "city": "Caldwell",
+        "slug": "caldwell-id",
+        "state": "ID",
+        "content": "Canyon Electric, LLC extends its comprehensive electrical services to Caldwell, Idaho, providing reliable and expert solutions for homes and businesses. Our commitment is to deliver top-quality workmanship and exceptional customer service, ensuring your electrical systems are safe, efficient, and up to code. Whether it's a simple repair or a complex installation, our skilled electricians are ready to assist you.\n\nOur services in Caldwell cover a broad range of needs, including electrical inspections, lighting installations, and panel upgrades. We understand the unique requirements of Caldwell's diverse properties and are dedicated to providing tailored electrical solutions that meet your specific needs. We pride ourselves on our professionalism and attention to detail, ensuring your complete satisfaction.",
+        "localContext": "Caldwell is a vibrant city known for its agricultural roots and growing community. Canyon Electric, LLC is proud to serve the electrical needs of the residents and businesses of Caldwell.",
+        "nearbyAreas": [
+          "Nampa",
+          "Middleton",
+          "Parma"
+        ]
+      },
+      {
+        "city": "Star",
+        "slug": "star-id",
+        "state": "ID",
+        "content": "Canyon Electric, LLC is dedicated to providing exceptional electrical services to the growing community of Star, Idaho. We understand the unique needs of Star residents and businesses and are committed to delivering reliable, safe, and efficient electrical solutions. From new construction wiring to electrical repairs and upgrades, our team of experienced electricians is ready to handle any project.\n\nOur services in Star include custom home wiring, landscape lighting, and electrical safety inspections. We are committed to ensuring the safety and efficiency of your electrical systems. We understand the importance of reliable electrical service and pride ourselves on our prompt and professional service.",
+        "localContext": "Star is a rapidly growing community known for its family-friendly atmosphere and close proximity to Boise. Canyon Electric, LLC is dedicated to providing electrical services that meet the evolving needs of Star residents.",
+        "nearbyAreas": [
+          "Eagle",
+          "Middleton",
+          "Emmett"
+        ]
+      },
+      {
+        "city": "Middleton",
+        "slug": "middleton-id",
+        "state": "ID",
+        "content": "Canyon Electric, LLC is pleased to offer its expert electrical services to the residents and businesses of Middleton, Idaho. We provide a comprehensive range of electrical solutions, from routine maintenance to complex installations. Our team of licensed and experienced electricians is dedicated to delivering quality workmanship and exceptional customer service.\n\nOur services in Middleton include electrical troubleshooting, wiring repairs, and lighting upgrades. We understand the importance of safe and reliable electrical systems, and we are committed to providing solutions that meet your specific needs. We pride ourselves on our professionalism and attention to detail.",
+        "localContext": "Middleton is a charming community with a small-town feel, located in the heart of the Treasure Valley. Canyon Electric, LLC is committed to providing quality electrical services to the residents and businesses of Middleton.",
+        "nearbyAreas": [
+          "Nampa",
+          "Star",
+          "Caldwell"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Electrical Panel Upgrade",
+        "text": "Canyon Electric upgraded our electrical panel and did an amazing job. Our old panel was outdated and couldn't handle our modern appliances. The team was professional, efficient, and explained everything clearly. I highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Lighting Installation",
+        "text": "We hired Canyon Electric to install recessed lighting in our living room. The electrician was on time and very skilled. The lighting looks great and has completely transformed the space. There was a small delay getting the right fixtures, but the communication was good.",
+        "date": "2024-12-20"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Residential Electrical Services",
+        "text": "I had a electrical emergency late at night and Canyon Electric was there within the hour. They quickly diagnosed the problem and fixed it efficiently. I really appreciated their prompt and professional service.",
+        "date": "2024-10-05"
+      },
+      {
+        "name": "John S.",
+        "rating": 5,
+        "service": "Generator Installation",
+        "text": "Canyon Electric installed a whole-house generator for us, and we couldn't be happier. The process was seamless, and the team was knowledgeable and helpful. Now we have peace of mind knowing we'll have power during any outage.",
+        "date": "2025-01-28"
+      },
+      {
+        "name": "Lisa B.",
+        "rating": 4,
+        "service": "Commercial Electrical Services",
+        "text": "Canyon Electric has been our go-to electrician for our business for years. They are always reliable and provide excellent service. Recently, they helped us upgrade our lighting to LED, which has significantly reduced our energy costs. The scheduling could be more flexible though.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Electrical Inspection",
+        "text": "I was buying a new house and Canyon Electric performed a thorough electrical inspection. Their detailed report helped me identify some potential issues and negotiate a better price. Their knowledge saved me a lot of money and headache.",
+        "date": "2025-02-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Boise Electrician | Canyon Electric, LLC",
+        "description": "Trusted electrical services in Boise, ID. Residential & commercial. Licensed, insured, and experienced. Call +12083232000 for a free quote."
+      },
+      "about": {
+        "title": "About Canyon Electric | Boise, ID",
+        "description": "Learn about Canyon Electric, LLC, a leading electrician in Boise. Our commitment to quality, safety, and customer satisfaction."
+      },
+      "services": {
+        "title": "Electrical Services | Canyon Electric, Boise",
+        "description": "Comprehensive electrical services in Boise, ID. Panel upgrades, lighting, generator installation, and more. Contact us today!"
+      },
+      "contact": {
+        "title": "Contact Canyon Electric | Boise Electrician",
+        "description": "Contact Canyon Electric, LLC for all your electrical needs in Boise, ID. Get a free quote today! +12083232000"
+      },
+      "reviews": {
+        "title": "Canyon Electric Reviews | Boise, ID",
+        "description": "Read reviews for Canyon Electric, LLC from satisfied customers in Boise, ID. Honest and reliable electrical services."
+      },
+      "service-areas": {
+        "title": "Canyon Electric Service Areas | Boise, ID",
+        "description": "Canyon Electric serves Boise, ID, and surrounding areas. Quality electrical services you can trust. Check our service area!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "residential-electrical-services": "/images/service-residential-electrical-services.webp",
+      "commercial-electrical-services": "/images/service-commercial-electrical-services.webp",
+      "electrical-panel-upgrades": "/images/service-electrical-panel-upgrades.webp",
+      "lighting-installation": "/images/service-lighting-installation.webp",
+      "generator-installation": "/images/service-generator-installation.webp",
+      "electrical-inspections": "/images/service-electrical-inspections.webp"
+    },
+    "servicesResponsive": {
+      "residential-electrical-services": {
+        "src": "/images/service-residential-electrical-services.webp",
+        "srcset": "/images/service-residential-electrical-services-400w.webp 400w, /images/service-residential-electrical-services-800w.webp 800w, /images/service-residential-electrical-services-1200w.webp 1200w, /images/service-residential-electrical-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-electrical-services": {
+        "src": "/images/service-commercial-electrical-services.webp",
+        "srcset": "/images/service-commercial-electrical-services-400w.webp 400w, /images/service-commercial-electrical-services-800w.webp 800w, /images/service-commercial-electrical-services-1200w.webp 1200w, /images/service-commercial-electrical-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "electrical-panel-upgrades": {
+        "src": "/images/service-electrical-panel-upgrades.webp",
+        "srcset": "/images/service-electrical-panel-upgrades-400w.webp 400w, /images/service-electrical-panel-upgrades-800w.webp 800w, /images/service-electrical-panel-upgrades-1200w.webp 1200w, /images/service-electrical-panel-upgrades.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lighting-installation": {
+        "src": "/images/service-lighting-installation.webp",
+        "srcset": "/images/service-lighting-installation-400w.webp 400w, /images/service-lighting-installation-800w.webp 800w, /images/service-lighting-installation-1200w.webp 1200w, /images/service-lighting-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "generator-installation": {
+        "src": "/images/service-generator-installation.webp",
+        "srcset": "/images/service-generator-installation-400w.webp 400w, /images/service-generator-installation-800w.webp 800w, /images/service-generator-installation-1200w.webp 1200w, /images/service-generator-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "electrical-inspections": {
+        "src": "/images/service-electrical-inspections.webp",
+        "srcset": "/images/service-electrical-inspections-400w.webp 400w, /images/service-electrical-inspections-800w.webp 800w, /images/service-electrical-inspections-1200w.webp 1200w, /images/service-electrical-inspections.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
